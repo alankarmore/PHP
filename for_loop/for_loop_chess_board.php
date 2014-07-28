@@ -32,3 +32,4 @@ for($index = 1; $index <= 9; $index++) {
 	}
 	echo "</tr>";
 }
+echo "</table>";
